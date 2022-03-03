@@ -198,7 +198,7 @@ Now you have completed your project!
 
 ## 🚀Challenge
 
-Add new event handler to your closure to do something more to the plants; for example, double-click a plant to bring it to the front. Get creative!
+Add new event handler to your closure to do something more to the plants; for example, double-click a plant to bring it to the front. Get creative
 
 ## Post-Lecture Quiz
 
